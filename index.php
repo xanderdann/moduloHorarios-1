@@ -47,7 +47,7 @@
 
 			<!-- Logo principal -->
 
-			<a class="navbar-brand" style="font-size: 1.5em;" href="index.html"><img src="css/img/iconoBlanco.png" style="height: 1.5em; width: 1.5em; display: inline;" /> SIGPA</a>
+			<a class="navbar-brand" style="font-size: 1.5em;" href="index.php"><img src="css/img/iconoBlanco.png" style="height: 1.5em; width: 1.5em; display: inline;" /> SIGPA</a>
 
 			<!-- Fin logo principal -->
 
@@ -139,7 +139,7 @@
 
 					<li class="divider"></li>
 
-					<li><a href="login.html"><i class="fa fa-sign-out fa-fw"></i> Cerrar sesión</a></li>
+					<li><a href="login.php"><i class="fa fa-sign-out fa-fw"></i> Cerrar sesión</a></li>
 				</ul>
 
 			</li>

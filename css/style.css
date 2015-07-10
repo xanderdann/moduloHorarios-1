@@ -1,0 +1,84 @@
+ body{
+ 	background: #0042BA;
+ }
+
+ .navbar-default{
+ 	background: #0042BA;
+ }
+
+ #page-wrapper{
+ 	background: #fff;
+ }
+
+ td{
+ 	background: #fff;
+ 	height: 37px;
+ }
+ .medio{
+ 	text-align: center;
+ }
+
+ th{
+ 	text-align: center;
+ 	width: 9%;
+ 	//background: #666e78;
+ }
+
+ .hora{
+ 	text-align: center;
+ 	font-size: 1em;
+ 	font-weight: bold;
+ }
+
+ h1{
+ 	color: #000;
+ }
+
+ td{
+ 	background: #fff;
+ }
+ @media screen and (max-width: 1200px){
+ 	tr th{
+ 		text-align: center;
+ 	}
+ 	.hora{
+ 		font-size: .9em;
+ 	}
+ }
+
+ @media screen and (max-width: 1100px){
+ 	tr th{
+ 		text-align: center;
+ 	}
+ 	.hora{
+ 		text-align: center;
+ 		font-size: .7em;
+ 	}
+ }
+
+ @media screen and (max-width: 1010px){
+ 	.hora{
+ 		text-align: center;
+ 		font-size: .65em;
+ 	}
+
+ 	tr th{
+ 		text-align: center;
+ 	}
+ 	span{
+ 		display: none;
+ 	}
+ }
+ @media screen and (max-width: 895px){
+ 	.hora{
+ 		text-align: center;
+ 		font-size: .6em;
+ 	}
+
+ 	tr th{
+ 		text-align: center;
+ 	}
+ 	span{
+ 		display: none;
+ 	}
+ }
